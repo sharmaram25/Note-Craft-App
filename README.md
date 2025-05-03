@@ -7,7 +7,6 @@
 
 <div align="center">
 
-[![GitHub license](https://img.shields.io/github/license/sharmaram25/Note-Craft-App?color=blue)](https://github.com/sharmaram25/Note-Craft-App/blob/main/LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/sharmaram25/Note-Craft-App)
 [![React Native](https://img.shields.io/badge/React%20Native-0.76-blue)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-52.0-blue)](https://expo.dev/)
@@ -19,9 +18,6 @@
 
 **Note-Craft** is an elegant and intuitive note-taking application built to help you capture, organize, and access your thoughts seamlessly across all your devices. With a beautiful paper-like interface and powerful organization features, Note-Craft transforms the digital note-taking experience.
 
-<div align="center">
-  <img src="https://github.com/sharmaram25/Note-Craft-App/raw/main/assets/app-preview.png" alt="App Preview" width="80%"/>
-</div>
 
 ## 📱 Try the App
 
@@ -76,15 +72,6 @@ Experience Note-Craft on your Android device by downloading the APK:
    npm run build:web
    ```
 
-## 📷 Screenshots
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github.com/sharmaram25/Note-Craft-App/raw/main/assets/screenshot-notes.png" width="45%" alt="Notes Screenshot" />
-    <img src="https://github.com/sharmaram25/Note-Craft-App/raw/main/assets/screenshot-editor.png" width="45%" alt="Editor Screenshot" />
-  </div>
-</div>
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit a Pull Request.
@@ -97,7 +84,7 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source and available for use as per your descretion.
 
 ## 👨‍💻 Author
 
