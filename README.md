@@ -1,7 +1,7 @@
 # 📝 Note-Craft App
 
 <div align="center">
-  <img src="https://github.com/sharmaram25/Note-Craft-App/raw/main/assets/NoteCraft-Logo.png" alt="Note-Craft Logo" width="200" height="200"/>
+  <img src="https://github.com/sharmaram25/Note-Craft-App/raw/master/assets/NoteCraft-Logo.png" alt="Note-Craft Logo" width="200" height="200"/>
   <h3>Elegant Note Taking, Reimagined</h3>
 </div>
 
